@@ -3,7 +3,7 @@ I'm a full stack developer...
 
 ## Project Title
 
-### Project nema - seo-agency
+### Project Nema - seo-agency
 
 Description:
 This project includes downloadable and zipped files. To view the content, unzip the file, open index.html, and run the code. 
